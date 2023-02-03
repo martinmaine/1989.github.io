@@ -21,7 +21,8 @@ body {
         display: none;
     }
     #logoMobile {
-        display: flex;}
+        display: flex;
+        width: 100vw ;}
   }
 
   @media (min-width: 576px) and (max-width: 991.98px) and (orientation:landscape) {
