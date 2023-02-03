@@ -15,7 +15,9 @@ body {
 
   @media (max-width: 430px)and (orientation:portrait) {
     body{background: rgb(255, 255, 255);
-    margin: 0;}
+        margin: 0;
+        overflow:auto;
+      }
 
     #logo {
         display: none;
